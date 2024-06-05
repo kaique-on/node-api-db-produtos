@@ -1,0 +1,19 @@
+{
+  "name": "node_api_db_produtos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "msnodesqlv8": "^4.2.1",
+    "nodemon": "^3.1.3"
+  }
+}
